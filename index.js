@@ -1,4 +1,4 @@
-/*
+
 // Iteration 1: Names and Input
 let hacker1 = "Anna"
 //console.log(`The driver's name is ${hacker1}`);
@@ -30,7 +30,7 @@ for(let i = hacker2.length - 1; i >= 0; i--) {
 }
 
 
-*/
+
 function count(driver,navigator) { 
 
     let i = 0; 
